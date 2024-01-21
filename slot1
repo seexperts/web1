@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="id">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -845,7 +845,7 @@ p img {
           <nav class="menu-drawer__navigation">
             <ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><a
                       id="HeaderDrawer-home"
-                      href="https://ethlits.com/slot"
+                      href="/"
                       class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
                       
                     >
@@ -864,7 +864,24 @@ p img {
                       
                     >
                       Contact
-                    </a></li></ul>
+                    </a></li>
+                    <li><a
+                      id="HeaderDrawer-contact"
+                      href="https://ethlits.com/slot"
+                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
+                      
+                    >
+                      Slot
+                  </a></li>
+                  <li><a
+                      id="HeaderDrawer-contact"
+                      href="https://ethlits.com/casino-online"
+                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
+                      
+                    >
+                      Casino
+                  </a></li>
+                  </ul>
           </nav>
           <div class="menu-drawer__utility-links"><div class="menu-drawer__localization header-localization">
 </div><ul class="list list-social list-unstyled" role="list"></ul>
@@ -971,7 +988,7 @@ p img {
 <nav class="header__inline-menu">
   <ul class="list-menu list-menu--inline" role="list"><li><a
             id="HeaderMenu-home"
-            href="https://ethlits.com/slot"
+            href="/"
             class="header__menu-item list-menu__item link link--text focus-inset"
             
           >
@@ -993,7 +1010,24 @@ p img {
           >
             <span
             >Contact</span>
-          </a></li></ul>
+          </a></li>
+          <li><a
+            id="HeaderDrawer-contact"
+            href="https://ethlits.com/slot"
+            class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
+            
+          >
+            Slot
+        </a></li>
+        <li><a
+            id="HeaderDrawer-contact"
+            href="https://ethlits.com/casino-online"
+            class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
+            
+          >
+            Casino
+        </a></li>
+        </ul>
 </nav>
 
 <div class="header__icons header__icons--localization header-localization">
